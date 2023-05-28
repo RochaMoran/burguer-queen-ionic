@@ -1,0 +1,7 @@
+{
+  "name": "burquer_queen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
